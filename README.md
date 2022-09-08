@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gleschevich, im a bachelor in computer science. Im from Argentina.
+- 👋 Hi, I’m @gleschevich, im a bachelor in computer science. Frontend Developer. Im from Argentina.
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning JavaScript,Bootstrap 5,React.
+- 🌱 I’ve experience with HTML+CSS, React JS, JavaScript,Bootstrap 5, Materialize, Cypress and SQL.
 - 💞️ I’m looking to work in projects and companies.
 - 📫 gejo.leschevich@gmail.com
 
