@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend development.
 - 🇬🇧 B2 English Level. Currently studiyng in ISI Dublin.Listening and reading comprehension, very good communication skills.
 - 🌱 I’ve experience with HTML+CSS, React JS, JavaScript,Bootstrap 5,Python, Materialize, Cypress and SQL.
-- 💞️ I’m looking to work in projects and companies.
+- 💞️ I enjoy teamwork. Easy-going, hard-worker and patient person.
 - 📫 gejo.leschevich@gmail.com
 
 <!---
