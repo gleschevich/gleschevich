@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gleschevich, im a bachelor in computer science. Frontend Developer. Im from Argentina. 
 - Currently living and studying in Dublin, Ireland 🇮🇪
+- :book: Msc in Cybersecurity currently on course
 - 👀 I’m interested in Frontend development and Cybersecurity
 - 🇬🇧 Fluent English Level (C1). Currently studiyng in ISI Dublin.Listening and reading comprehension, very good communication skills.
 - 🌱 I’ve experience with HTML+CSS, React JS, JavaScript,Bootstrap 5,Python, Materialize, Cypress and SQL.
